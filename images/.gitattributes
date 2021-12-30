@@ -1,0 +1,2 @@
+xyris-banner-full.png filter=lfs diff=lfs merge=lfs -text
+xyris-letters.png filter=lfs diff=lfs merge=lfs -text
